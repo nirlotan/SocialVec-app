@@ -10,6 +10,6 @@ yaspin
 PyYAML
 gensim>4
 scikit-learn
-socialvec
+socialvec>=0.1.7
 tensorflow
 stqdm
